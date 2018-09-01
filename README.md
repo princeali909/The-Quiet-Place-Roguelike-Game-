@@ -26,8 +26,9 @@ This game is procedurally generated, generating random dungeons of various sizes
 1. Install Java 8
 2. Clone Repository to IDE of choice.
 3. Import the provided library (Code will not work without the library).
-4. 'w','s','a', & 'd' keys to move.
-5. 'q' to quit game
+4. Run code in Main.java
+5. 'w','s','a', & 'd' keys to move.
+6. 'q' to quit game
 
 
 ![lose game](https://user-images.githubusercontent.com/38504747/44949175-326c3800-ade1-11e8-9b62-724cf4d7096b.gif)
