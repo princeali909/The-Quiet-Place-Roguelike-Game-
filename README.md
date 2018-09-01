@@ -3,7 +3,7 @@
 ![main game gif](https://user-images.githubusercontent.com/38504747/44948793-03ea5f00-add9-11e8-989f-0c7af5b04f46.gif)
 
 
-The Quiet Place is a procedurally generated dungeon game where the objective is to collect all the tokens (in this case apples), without letting the monster get to you. This game is themed on the popular thriller "A Quiet Place" in that the enemy NPC only moves when you move. This was completeley intentional and not because threading with this tile engine was so glitchy *wink*. I am using the tile engine from UC Berkeley, which uses Princetons STDraw library.
+The Quiet Place is a procedurally generated dungeon game where the objective is to collect all the tokens (in this case apples), without letting the monster get to you. This game is themed on the popular thriller "A Quiet Place" in that the enemy NPC only moves when you move. This was completeley intentional and not because threading with this tile engine was so glitchy *wink*. I am using a tile engine from UC Berkeley, which uses Princetons STDraw library.
 
 The program starts in the main menu with a "Lore" option (press 'L' key) people can check out before they play to brush up on the fictional backstory of the game.  
 
