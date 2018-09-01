@@ -1,4 +1,4 @@
-package byog.Core;
+package The_Quiet_Place.Game;
 
 import java.util.Random;
 

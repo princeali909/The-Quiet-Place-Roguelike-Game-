@@ -1,4 +1,4 @@
-package byog.Core;
+package The_Quiet_Place.Game;
 
 /** This is the main entry point for the program.
  */

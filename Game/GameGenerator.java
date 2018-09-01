@@ -9,6 +9,7 @@ import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
 import static byog.Core.MapGenerator.*;
+import static byog.Core.temp.xyTo1D;
 
 /**
  * Game generator gives us our interactibility with the map generated.
@@ -19,9 +20,9 @@ import static byog.Core.MapGenerator.*;
 
 public class GameGenerator{
     private boolean mainMenu;
-    private static TETile farmer = new TETile('a',Color.black,Color.white,"player","C:\\Users\\ali\\Desktop\\CS61b\\player.png");
-    private static TETile damagedWall = new TETile('b',Color.black,Color.white,"player","C:\\Users\\ali\\Desktop\\CS61b\\rock1.png");
-    private static TETile brokenWall = new TETile('b',Color.black,Color.white,"player","C:\\Users\\ali\\Desktop\\CS61b\\rock2.png");
+    public static TETile farmer = new TETile('a',Color.black,Color.white,"player","C:\\Users\\ali\\Desktop\\CS61b\\player.png");
+    public static TETile damagedWall = new TETile('b',Color.black,Color.white,"player","C:\\Users\\ali\\Desktop\\CS61b\\rock1.png");
+    public static TETile brokenWall = new TETile('b',Color.black,Color.white,"player","C:\\Users\\ali\\Desktop\\CS61b\\rock2.png");
     static TETile food = new TETile('b',Color.black,Color.white,"player","C:\\Users\\ali\\Desktop\\CS61b\\food.png");
     static TETile monster = new TETile('b',Color.black,Color.white,"player","C:\\Users\\ali\\Desktop\\CS61b\\enemy3.png");
 
